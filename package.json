@@ -1,0 +1,11 @@
+{
+  "name": "events-app",
+  "version": "1.0.0",
+  "description": "App that will be used to create private and public events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elias Ingea - Aaron Dyke",
+  "license": "ISC"
+}
